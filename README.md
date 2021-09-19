@@ -41,8 +41,9 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
   O classificador escolhido para esse desafio foi a Rede Neural Convolucional, ou CNN *(Convolutional Neural Network)*, tendo em vista que este classificador é considerado estado da arte para classificação de imagens pois a CNN consegue identificar padrões nas imagens de forma muito eficiente.
   
   Para criação de uma CNN muitos paramêtros devem ser definidos, como batch size, activation, optmizer dentre outros. O que nos leva a pergunta: Qual conbinação desses parametros nos levará aos melhores resultados?
+ 
   Para responder essa pergunta podemos simplesmente testar várias combinações e comparar os resultados. O arquivo [Tabela hiperparametros MNIST.xlsx](https://github.com/Tavrss/Cyberlabs/blob/main/Tabela%20hiperparametros%20MNIST.xlsx) apresenta 360 combinações dos paramêtros citados e suas respectivas acurácias e loss.
-  Após análise dessa tabela podemos definir quais combinações levam ao melhor resultado observando dentre as acurácias de 100% quais foram os parametros com maior frequência.
+  Após análise dessa tabela podemos definir quais combinações levam ao melhor resultado. Dentre as acurácias de 100% os parametros com maior frequência foram escolhidos.
   Desse modo foi defindo os parametros para a CNN:
   - Batch Size = 256
   - Activation = tanh
