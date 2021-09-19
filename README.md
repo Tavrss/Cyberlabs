@@ -66,7 +66,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
  Podemos análsar os erros do classificador, primeiramente com a matriz de confusão:
  
 <h1 align='center'>
-<img src='Confusion Matrix.png'>
+<img src='Confusion-Matrix.png'>
 <h1/>
    
 # 
