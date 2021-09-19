@@ -56,10 +56,10 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
   Para avaliarmos o desempenho do modelo criado e garantirmos que não houve overfitting devemos testar o modelo com dados que não foram usados em nenhum momento para a sua criação, treinamento ou otimização. 
  
   Para o meu modelo a acurácia dos dados de teste foi de 99,73%.
-  
-  <h1 align='center'>
-  <img src='Resultados.png'>
+
+<h1 align='center'>
+<img src='Resultados.png'>
 <h1/>
   
    
-   **Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).**
+**Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).**
