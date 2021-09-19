@@ -62,4 +62,4 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
 <h1/>
   
    
-   **Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).
+   **Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).**
