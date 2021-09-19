@@ -61,5 +61,16 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
 <img src='Resultados.png'>
 <h1/>
   
+ Podemos análsar os erros do classificador, primeiramente com a matriz de confusão:
+ 
+<h1 align='center'>
+<img src='Confusion Matrix.png'>
+<h1/>
+   
+Os 5 erros observados são:
+ 
+ <h1 align='center'>
+ <img src='Erros.gif'>
+ <h1/>
    
 **Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).**
