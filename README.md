@@ -5,7 +5,7 @@
  MNIST é um banco de imagens de dígitos de 0 a 9 desenhados a mão, ele contém 60.000 dados de treino e 10.000 dados de teste. É um ótimo banco de imagens para quem quer aprender  sobre visão computacional e classificação de dados.
 
 <h1 align='center'>
-  <img src='GIF-MNIST-700x.gif'>
+  <img src='GIF-MNIST-700x.gif' width = 45%>
 <h1/>
 
 
@@ -14,7 +14,7 @@
 O desafio proposto é de criar um classifiador capaz de diferenciar os números 5 e 0 do dataset MNIST.
   
 <h1 align='center'>
-  <img src='GIF-MNIST-05.gif'>
+  <img src='GIF-MNIST-05.gif' width = 60%>
 <h1/>
 
   
@@ -63,10 +63,10 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
   
 #  
  
- Podemos análsar os erros do classificador, primeiramente com a matriz de confusão:
+ Podemos analisar os erros do classificador, primeiramente com a matriz de confusão:
  
 <h1 align='center'>
-<img src='Confusion-Matrix.png'>
+<img src='Confusion-Matrix.png' width=50%>
 <h1/>
    
 # 
@@ -75,7 +75,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
  Os 5 erros observados e suas respectivas classes são:
  
  <h1 align='center'>
- <img src='Erros.gif'>
+ <img src='Erros.gif' width=70%>
  <h1/>
   
  #
