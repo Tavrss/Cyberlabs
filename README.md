@@ -70,7 +70,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
 Os 5 erros observados são:
  
  <h1 align='center'>
- <img src='Erros .gif'>
+ <img src='Erros.gif'>
  <h1/>
    
 **Toda esse processo está documentado no arquivo [main.py](https://github.com/Tavrss/Cyberlabs/blob/main/main.py).**
