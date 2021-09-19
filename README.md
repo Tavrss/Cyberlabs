@@ -51,7 +51,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
 ### ⪧ 📊 **Análise dos Resultados obtidos pelo classificador escolhido**
   
   A acurácia obtida somente com os dados de treino (100%) é um valor muito otimista pois o modelo foi otmizado para classificar exatamente esses dados, a acurácia para dados novos tende a ser menor. Outro problema que pode ter ocorrido é o overfitting que acontece quando o modelo se ajusta demais aos dados de treino e não consegue generalizar muito, e desse modo pode não conseguir classificar dados novos.
-  Para avaliarmos o desempenho do modelo criado e garantirmos que não houve overfitting devemos testar o modelo com dados que não foram usados em nenhum momento para a criação, treinamento ou otimização do modelo. 
+  Para avaliarmos o desempenho do modelo criado e garantirmos que não houve overfitting devemos testar o modelo com dados que não foram usados em nenhum momento para a sua criação, treinamento ou otimização. 
   Para o meu modelo a acurácia dos dados de teste foi de 99,73%
   
   <h1 align='center'>
