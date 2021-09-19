@@ -26,7 +26,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
   <li><p><b>Tratamento dos Dados;</b></p>
 <p>Divisão dos dados dos dígitos 0 e 5 e normalização dos valores. </p></li>
   <li><p><b>Criação e optimização de Rede Neural Convolucional; </b></p></li>
-<p>Análisando a acurácia para diferentes combinações de hiperparâmetros para o classificador com o intuito de escolher a melhor combinação para este problema de classificação (gridsearch method). </p></li>
+<p>Análisando a acurácia para diferentes combinações de hiperparâmetros para o classificador com o intuito de escolher a melhor combinação para este problema de classificação <i>(gridsearch method)</i>. </p></li>
   <li><p><b>Análise dos Resultados obtidos pelo classificador escolhido; </b></p></li>
   <p>Utilizando os dados de teste para obter a estimativa da acurácia esperada para o classificador.</p>
 </ul>
