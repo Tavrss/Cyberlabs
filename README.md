@@ -67,7 +67,7 @@ O desafio proposto é de criar um classifiador capaz de diferenciar os números 
 <img src='Confusion Matrix.png'>
 <h1/>
    
-Os 5 erros observados são:
+ Os 5 erros observados e suas respectivas classes são:
  
  <h1 align='center'>
  <img src='Erros.gif'>
