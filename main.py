@@ -9,6 +9,8 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout
 from tensorflow.keras import layers, models
 
+#-------------------------------------- TRATAMENTO DOS DADOS  --------------------------------------
+
 #~~~~~~~~~~~~ Importando os Dados ~~~~~~~~~~~~
 
 from keras.datasets import mnist
@@ -49,6 +51,9 @@ y_test = y_test[indexes2]
 
 X_train = X_train/255
 X_test = X_test/255
+
+
+#-------------------------------------- CROAÇÃO E OTIMIZAÇÃO DA REDE NEURAL CONVOLUCIONAL  --------------------------------------
 
 #~~~~~~~~~~~~ Criando Tabela ~~~~~~~~~~~~
 
