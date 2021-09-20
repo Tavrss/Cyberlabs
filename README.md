@@ -11,7 +11,7 @@
 
 ## ⩥ 🏆 Sobre o Desafio
    
-O desafio proposto é de criar um classifiador capaz de diferenciar os números 5 e 0 do dataset MNIST.
+O desafio proposto é de criar um classificador capaz de diferenciar os números 5 e 0 do dataset MNIST.
   
 <h1 align='center'>
   <img src='GIF-MNIST-05.gif' width = 60%>
